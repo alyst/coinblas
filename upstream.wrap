@@ -1,0 +1,6 @@
+[wrap-file]
+directory=BLAS-3.8.0
+
+source_url=http://www.netlib.org/blas/blas-3.8.0.tgz
+source_filename=blas-3.8.0.tar.gz
+source_hash=55df2a24966c2928d3d2ab4a20e9856d9914b856cf4742ebd4f7a4507c8e44e8
